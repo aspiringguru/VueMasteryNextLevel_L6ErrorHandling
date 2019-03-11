@@ -77,8 +77,7 @@ npm install --save nprogress nprogress/nprogress.css
 npm install
 yarn serve
 
-https://router.vuejs.org/guide/advanced/navigation-guards.html#in-component-guards
-https://router.vuejs.org/guide/advanced/navigation-guards.html#per-route-guard
+add page not found
 
 
 
